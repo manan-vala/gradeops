@@ -1,0 +1,9 @@
+Model Selection: While you are welcome to use pre-trained models for text recognition, we strongly recommend training your own from scratch to better understand the underlying architecture.
+
+Resources: To get you started, here is a suggested dataset and a reference model. You are free to use these or any other resources you prefer(THESE ARE JUST RECOMMENDATIONS):
+
+Dataset (Incase you are training your own):
+https://www.kaggle.com/datasets/nibinv23/iam-handwriting-word-database/data
+
+Model:
+https://github.com/githubharald/SimpleHTR
